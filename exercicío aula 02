@@ -1,0 +1,7 @@
+leia a temperatura 
+leia a unidade de medida  
+se a unidade for = celecius
+então resultado = (temperatura *1.8)
+se a unidade for = fahrenheit
+então o resultado = (temperatura /1.8)
+escreva o resultado 
