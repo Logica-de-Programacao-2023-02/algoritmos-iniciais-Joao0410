@@ -1,0 +1,10 @@
+ler lista 
+le x
+para cada item da lista
+compare se elemento é igual a x, então:
+  escreva encontrei x
+    fim
+fim-se
+fim-para
+escreva não encontrei x
+fim
