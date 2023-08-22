@@ -1,0 +1,11 @@
+ler valores 
+ler pesos  
+soma = 0 
+para cada número da lista faça: 
+  soma = soma + (número * peso)
+soma peso = 0 
+ para cada número da lista peso faça: 
+ soma peso = soma peso + número 
+ média  = soma / soma peso 
+ escreva a média 
+ fim
