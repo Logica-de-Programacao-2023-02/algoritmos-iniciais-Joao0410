@@ -1,0 +1,16 @@
+Entradas: base_do_triangulo, altura_do_triangulo
+Saída: area
+
+ Multiplique "base_do_triangulo" por "altura_do_triangulo" e divida o resultado por 2.
+ 
+     Armazene o valor resultante na variável "area".
+ 
+       Retorne "area".
+
+Fim 
+ 
+
+
+
+
+
