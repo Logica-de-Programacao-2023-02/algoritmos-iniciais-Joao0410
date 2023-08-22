@@ -1,0 +1,19 @@
+Se "expoente" for igual a 0:
+    Retorne "resultado" (que será 1, porque qualquer número elevado a 0 é 1).
+
+ Se "expoente" for positivo:
+ Repita o próximo passo "expoente" vezes.
+ Multiplique "resultado" pela "base".
+ Após terminar as repetições, vá para o passo 6.
+
+ Se "expoente" for negativo e "base" for diferente de 0:
+ Transforme "expoente" em seu valor absoluto (ou seja, remova o sinal negativo).
+ Repita o próximo passo "expoente" vezes.
+ Divida "resultado" pela "base".
+ Após terminar as repetições, vá para o passo 6.
+
+ Se "expoente" for negativo e "base" for igual a 0:
+
+ Retorne um erro (porque 0 elevado a um expoente negativo é indefinido)
+ 
+Retorne "resultado".
