@@ -1,0 +1,8 @@
+ler capital ler taxa de juros 
+ler tempo 
+x = 1 + taxa de juros 
+para cada número entre 1 e tempo, faça : 
+x = x * x
+m = capital * x 
+escreva m
+fim
